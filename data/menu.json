@@ -1,0 +1,166 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Филадельфия классическая",
+      "category": "sushi",
+      "description": "Лосось, сливочный сыр, огурец, рис, нори",
+      "price": 450,
+      "weight": 250,
+      "image": "images/downloaded/sakuga-dish-1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Калифорния с крабом",
+      "category": "sushi",
+      "description": "Краб, авокадо, огурец, икра тобико, майонез",
+      "price": 380,
+      "weight": 230,
+      "image": "images/downloaded/sakuga-dish-2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Дракон",
+      "category": "sushi",
+      "description": "Угорь, огурец, авокадо, унаги соус",
+      "price": 520,
+      "weight": 270,
+      "image": "images/downloaded/sakuga-dish-3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Сяке маки",
+      "category": "sushi",
+      "description": "Лосось, рис, нори",
+      "price": 280,
+      "weight": 180,
+      "image": "images/downloaded/sakuga-dish-4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Спайси тунец",
+      "category": "sushi",
+      "description": "Тунец, острый соус, огурец, кунжут",
+      "price": 420,
+      "weight": 240,
+      "image": "images/downloaded/sakuga-dish-5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Pad Thai с курицей",
+      "category": "hot",
+      "description": "Рисовая лапша, курица, арахис, яйцо, овощи",
+      "price": 390,
+      "weight": 350,
+      "image": "images/downloaded/sakuga-dish-6.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Том Ям с креветками",
+      "category": "soups",
+      "description": "Острый тайский суп с креветками, грибами, лемонграссом",
+      "price": 450,
+      "weight": 400,
+      "image": "images/downloaded/sakuga-dish-7.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Утка по-пекински",
+      "category": "hot",
+      "description": "Хрустящая утка, блинчики, огурец, зеленый лук, соус хойсин",
+      "price": 680,
+      "weight": 450,
+      "image": "images/downloaded/sakuga-dish-8.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Мисо суп",
+      "category": "soups",
+      "description": "Традиционный японский суп с тофу, водорослями вакаме",
+      "price": 180,
+      "weight": 300,
+      "image": "images/downloaded/sakuga-dish-9.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Рамен с говядиной",
+      "category": "soups",
+      "description": "Насыщенный бульон, яичная лапша, говядина, яйцо, овощи",
+      "price": 490,
+      "weight": 500,
+      "image": "images/downloaded/sakuga-dish-10.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Wok с морепродуктами",
+      "category": "hot",
+      "description": "Креветки, кальмар, мидии, овощи, соус терияки",
+      "price": 550,
+      "weight": 380,
+      "image": "images/downloaded/sakuga-dish-11.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Кимчи",
+      "category": "salads",
+      "description": "Острая ферментированная пекинская капуста",
+      "price": 220,
+      "weight": 150,
+      "image": "images/downloaded/sakuga-dish-12.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Салат с тунцом татаки",
+      "category": "salads",
+      "description": "Обжаренный тунец, микс салатов, авокадо, соус понзу",
+      "price": 480,
+      "weight": 220,
+      "image": "images/menu/tuna-tataki.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Сунамоно",
+      "category": "salads",
+      "description": "Огурец, краб, креветка, кунжут, рисовый уксус",
+      "price": 320,
+      "weight": 180,
+      "image": "images/menu/sunomono.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Чука",
+      "category": "salads",
+      "description": "Салат из маринованных водорослей с кунжутом",
+      "price": 290,
+      "weight": 150,
+      "image": "images/menu/chuka.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Моти",
+      "category": "desserts",
+      "description": "Рисовые пирожные с начинкой (манго, клубника, шоколад)",
+      "price": 180,
+      "weight": 90,
+      "image": "images/menu/mochi.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Чизкейк матча",
+      "category": "desserts",
+      "description": "Нежный чизкейк с зеленым чаем матча",
+      "price": 320,
+      "weight": 150,
+      "image": "images/menu/matcha-cheesecake.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Жареное мороженое",
+      "category": "desserts",
+      "description": "Хрустящее мороженое в темпуре, политое сиропом",
+      "price": 280,
+      "weight": 120,
+      "image": "images/menu/fried-icecream.jpg"
+    }
+  ]
+}

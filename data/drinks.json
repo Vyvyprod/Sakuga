@@ -1,0 +1,130 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Зеленый чай матча",
+      "category": "hot-drinks",
+      "description": "Традиционный японский порошковый чай",
+      "price": 180,
+      "volume": 300,
+      "image": "images/downloaded/sakuga-drink-1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Генмайча",
+      "category": "hot-drinks",
+      "description": "Японский зеленый чай с обжаренным рисом",
+      "price": 150,
+      "volume": 400,
+      "image": "images/drinks/genmaicha.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Пуэр",
+      "category": "hot-drinks",
+      "description": "Выдержанный китайский чай",
+      "price": 220,
+      "volume": 500,
+      "image": "images/drinks/puer.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Имбирный чай",
+      "category": "hot-drinks",
+      "description": "Согревающий чай с имбирем, лимоном и медом",
+      "price": 200,
+      "volume": 350,
+      "image": "images/drinks/ginger-tea.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Лимонад личи",
+      "category": "cold-drinks",
+      "description": "Освежающий лимонад с экзотическим вкусом личи",
+      "price": 250,
+      "volume": 400,
+      "image": "images/drinks/lychee-lemonade.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Манго ласси",
+      "category": "cold-drinks",
+      "description": "Индийский йогуртовый напиток с манго",
+      "price": 280,
+      "volume": 350,
+      "image": "images/drinks/mango-lassi.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Айс матча латте",
+      "category": "cold-drinks",
+      "description": "Холодный латте с зеленым чаем матча",
+      "price": 320,
+      "volume": 400,
+      "image": "images/drinks/iced-matcha.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Кокосовая вода",
+      "category": "cold-drinks",
+      "description": "Натуральная кокосовая вода",
+      "price": 200,
+      "volume": 330,
+      "image": "images/drinks/coconut-water.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Саке Дайгинджо",
+      "category": "alcohol",
+      "description": "Премиальное японское рисовое вино",
+      "price": 450,
+      "volume": 180,
+      "image": "images/downloaded/sakuga-drink-2.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Сливовое вино",
+      "category": "alcohol",
+      "description": "Традиционное японское вино Умешу",
+      "price": 380,
+      "volume": 100,
+      "image": "images/drinks/plum-wine.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Асахи",
+      "category": "alcohol",
+      "description": "Японское премиум пиво",
+      "price": 280,
+      "volume": 500,
+      "image": "images/drinks/asahi.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Сётю с зеленым чаем",
+      "category": "alcohol",
+      "description": "Японский дистиллят с зеленым чаем",
+      "price": 320,
+      "volume": 200,
+      "image": "images/drinks/shochu.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Фруктовый смузи",
+      "category": "cold-drinks",
+      "description": "Микс тропических фруктов",
+      "price": 290,
+      "volume": 400,
+      "image": "images/drinks/smoothie.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Жасминовый чай",
+      "category": "hot-drinks",
+      "description": "Ароматный китайский чай с цветами жасмина",
+      "price": 160,
+      "volume": 400,
+      "image": "images/drinks/jasmine.jpg"
+    }
+  ]
+}
